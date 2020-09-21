@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PokoShih/EmployeeDirectory/static/css/main.42bb3c76.chunk.css",
+    "main.js": "/PokoShih/EmployeeDirectory/static/js/main.cc9a1a89.chunk.js",
+    "main.js.map": "/PokoShih/EmployeeDirectory/static/js/main.cc9a1a89.chunk.js.map",
+    "runtime-main.js": "/PokoShih/EmployeeDirectory/static/js/runtime-main.ff948292.js",
+    "runtime-main.js.map": "/PokoShih/EmployeeDirectory/static/js/runtime-main.ff948292.js.map",
+    "static/js/2.b3c947f5.chunk.js": "/PokoShih/EmployeeDirectory/static/js/2.b3c947f5.chunk.js",
+    "static/js/2.b3c947f5.chunk.js.map": "/PokoShih/EmployeeDirectory/static/js/2.b3c947f5.chunk.js.map",
+    "index.html": "/PokoShih/EmployeeDirectory/index.html",
+    "precache-manifest.3b7d298ac126b0a8375544e5dcb14a7d.js": "/PokoShih/EmployeeDirectory/precache-manifest.3b7d298ac126b0a8375544e5dcb14a7d.js",
+    "service-worker.js": "/PokoShih/EmployeeDirectory/service-worker.js",
+    "static/css/main.42bb3c76.chunk.css.map": "/PokoShih/EmployeeDirectory/static/css/main.42bb3c76.chunk.css.map",
+    "static/js/2.b3c947f5.chunk.js.LICENSE.txt": "/PokoShih/EmployeeDirectory/static/js/2.b3c947f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff948292.js",
+    "static/js/2.b3c947f5.chunk.js",
+    "static/css/main.42bb3c76.chunk.css",
+    "static/js/main.cc9a1a89.chunk.js"
+  ]
+}
